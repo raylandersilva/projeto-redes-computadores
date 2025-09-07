@@ -88,7 +88,7 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## ✉️ Contato
 
-Raylander Silva de Sousa - [@seu_usuario](https://github.com/raylandersilva)
+Raylander Silva de Sousa - [@github](https://github.com/raylandersilva)
 
 ## 🙏 Agradecimentos
 
